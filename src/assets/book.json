@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Secret of the Crimson Rose",
+      "writer": "Eleanor Hayes",
+      "author": "Gideon Rivers",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 2,
+      "bookName": "Whispering Shadows",
+      "writer": "Olivia Knight",
+      "author": "Sebastian Blackwood",
+      "purchasedPrice": "8.99",
+      "sellPrice": "14.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 3,
+      "bookName": "Echoes of Eternity",
+      "writer": "Sophia Bennett",
+      "author": "Maxwell Westfield",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 4,
+      "bookName": "The Enigma's Legacy",
+      "writer": "Nathan Anderson",
+      "author": "Victoria Kensington",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "2"
+    },
+    {
+      "id": 5,
+      "bookName": "Midnight Whispers",
+      "writer": "Isabella Montgomery",
+      "author": "Gabriel Sinclair",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 6,
+      "bookName": "Serpents of Destiny",
+      "writer": "Benjamin Pierce",
+      "author": "Lillian Hawthorne",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 7,
+      "bookName": "The Lost Labyrinth",
+      "writer": "Charlotte Mitchell",
+      "author": "Adam Winchester",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "8"
+    },
+    {
+      "id": 8,
+      "bookName": "Beyond the Stars",
+      "writer": "Michael Brooks",
+      "author": "Penelope Sullivan",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 9,
+      "bookName": "The Ruby Crown",
+      "writer": "Emma Turner",
+      "author": "Thomas Reed",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 10,
+      "bookName": "Whispers in the Wind",
+      "writer": "Jacob Mitchell",
+      "author": "Olivia Hartley",
+      "purchasedPrice": "8.99",
+      "sellPrice": "14.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 11,
+      "bookName": "The Forbidden Tome",
+      "writer": "Abigail Watson",
+      "author": "Henry Lancaster",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 12,
+      "bookName": "Shadows of Betrayal",
+      "writer": "Lucas Peterson",
+      "author": "Sophia Anderson",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 13,
+      "bookName": "The Emerald Gate",
+      "writer": "Grace Armstrong",
+      "author": "Alexander Hartman",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 14,
+      "bookName": "The Silent Whispers",
+      "writer": "Daniel Roberts",
+      "author": "Amelia Lewis",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 15,
+      "bookName": "The Cursed Amulet",
+      "writer": "Victoria Chambers",
+      "author": "Matthew Parker",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 16,
+      "bookName": "The Forgotten Kingdom",
+      "writer": "Joshua Martin",
+      "author": "Eleanor Hughes",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "2"
+    },
+    {
+      "id": 17,
+      "bookName": "Whispers in the Dark",
+      "writer": "Emily Cooper",
+      "author": "Benjamin Montgomery",
+      "purchasedPrice": "8.99",
+      "sellPrice": "14.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 18,
+      "bookName": "The Forbidden City",
+      "writer": "Josephine Simmons",
+      "author": "David Reynolds",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 19,
+      "bookName": "The Diamond Heist",
+      "writer": "William Thompson",
+      "author": "Lily Harrison",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 20,
+      "bookName": "The Whispering Forest",
+      "writer": "Emma White",
+      "author": "Daniel Hart",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 21,
+      "bookName": "The Enchanted Isle",
+      "writer": "Samuel Carter",
+      "author": "Olivia Knight",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 22,
+      "bookName": "Shadows of the Past",
+      "writer": "Sophia Bennett",
+      "author": "Nathan Anderson",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 23,
+      "bookName": "The Dragon's Lair",
+      "writer": "Benjamin Pierce",
+      "author": "Isabella Montgomery",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 24,
+      "bookName": "The Haunted Manor",
+      "writer": "Lillian Hawthorne",
+      "author": "Michael Brooks",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 25,
+      "bookName": "The Lost Scrolls",
+      "writer": "Gabriel Sinclair",
+      "author": "Emily Turner",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 26,
+      "bookName": "The Crimson Crown",
+      "writer": "Maxwell Westfield",
+      "author": "Charlotte Mitchell",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 27,
+      "bookName": "The Mystic's Tome",
+      "writer": "Sebastian Blackwood",
+      "author": "Jacob Mitchell",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 28,
+      "bookName": "Whispers in the Moonlight",
+      "writer": "Olivia Hartley",
+      "author": "Abigail Watson",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 29,
+      "bookName": "The Forgotten Crypt",
+      "writer": "Alexander Hartman",
+      "author": "Lucas Peterson",
+      "purchasedPrice": "8.99",
+      "sellPrice": "14.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 30,
+      "bookName": "The Secret of the Raven's Eye",
+      "writer": "Grace Armstrong",
+      "author": "Victoria Chambers",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 31,
+      "bookName": "Shadows of Deception",
+      "writer": "Daniel Roberts",
+      "author": "Joshua Martin",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 32,
+      "bookName": "The Silver Mask",
+      "writer": "Emily Cooper",
+      "author": "Emma White",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 33,
+      "bookName": "The Forbidden Forest",
+      "writer": "William Thompson",
+      "author": "Samuel Carter",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 34,
+      "bookName": "Whispers in the Mist",
+      "writer": "Olivia Knight",
+      "author": "Sophia Bennett",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 35,
+      "bookName": "The Hidden Tomb",
+      "writer": "Nathan Anderson",
+      "author": "Benjamin Pierce",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 36,
+      "bookName": "The Emerald City",
+      "writer": "Isabella Montgomery",
+      "author": "Lillian Hawthorne",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 37,
+      "bookName": "The Whispering Statue",
+      "writer": "Maxwell Westfield",
+      "author": "Gabriel Sinclair",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 38,
+      "bookName": "The Enigma's Code",
+      "writer": "Sebastian Blackwood",
+      "author": "Eleanor Hayes",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 39,
+      "bookName": "Shadows of the Night",
+      "writer": "Lucas Peterson",
+      "author": "Sophia Anderson",
+      "purchasedPrice": "8.99",
+      "sellPrice": "14.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 40,
+      "bookName": "The Secret Scroll",
+      "writer": "Grace Armstrong",
+      "author": "Alexander Hartman",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 41,
+      "bookName": "Whispers in the Shadows",
+      "writer": "Daniel Roberts",
+      "author": "Olivia Hartley",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 42,
+      "bookName": "The Mysterious Key",
+      "writer": "Emily Cooper",
+      "author": "Benjamin Montgomery",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 43,
+      "bookName": "The Forbidden Scroll",
+      "writer": "William Thompson",
+      "author": "Lily Harrison",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 44,
+      "bookName": "The Whispering Spell",
+      "writer": "Olivia Knight",
+      "author": "Daniel Hart",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 45,
+      "bookName": "The Haunted Mansion",
+      "writer": "Samuel Carter",
+      "author": "Olivia Knight",
+      "purchasedPrice": "12.99",
+      "sellPrice": "19.99",
+      "purchasedQty": "6"
+    },
+    {
+      "id": 46,
+      "bookName": "Shadows of the Unknown",
+      "writer": "Sophia Bennett",
+      "author": "Nathan Anderson",
+      "purchasedPrice": "10.99",
+      "sellPrice": "16.99",
+      "purchasedQty": "3"
+    },
+    {
+      "id": 47,
+      "bookName": "The Enchanted Forest",
+      "writer": "Benjamin Pierce",
+      "author": "Isabella Montgomery",
+      "purchasedPrice": "14.99",
+      "sellPrice": "21.99",
+      "purchasedQty": "5"
+    },
+    {
+      "id": 48,
+      "bookName": "The Lost Artifact",
+      "writer": "Lillian Hawthorne",
+      "author": "Michael Brooks",
+      "purchasedPrice": "9.99",
+      "sellPrice": "15.99",
+      "purchasedQty": "4"
+    },
+    {
+      "id": 49,
+      "bookName": "The Mystic's Legacy",
+      "writer": "Gabriel Sinclair",
+      "author": "Emily Turner",
+      "purchasedPrice": "11.99",
+      "sellPrice": "17.99",
+      "purchasedQty": "7"
+    },
+    {
+      "id": 50,
+      "bookName": "The Crimson Rose",
+      "writer": "Maxwell Westfield",
+      "author": "Charlotte Mitchell",
+      "purchasedPrice": "13.99",
+      "sellPrice": "20.99",
+      "purchasedQty": "5"
+    }
+  ]
+  
