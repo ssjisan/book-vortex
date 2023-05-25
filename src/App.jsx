@@ -1,9 +1,11 @@
-import './App.css'
-import { Button } from '@mui/material'
+import { BrowserRouter } from "react-router-dom";
+import MainRoute from './Components/Mainroute'
 
 function App() {
   return (
-    <Button variant="contained">Text</Button>
+    <BrowserRouter>
+      <MainRoute />
+    </BrowserRouter>
   )
 }
 

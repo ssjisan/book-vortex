@@ -6,8 +6,8 @@ import CssBaseline from "@mui/material/CssBaseline";
 import Drawer from "@mui/material/Drawer";
 import List from "@mui/material/List";
 import ListItemIcon from "@mui/material/ListItemIcon";
-import Navbar from "../Navbar/Navbar";
-import { navConfig } from "../Navbar/NavConfig";
+// import Navbar from "../Navbar/Navbar";
+import { menuConfig } from "./MenuConfig";
 import { Collapse, ListItem, ListItemButton, Typography } from "@mui/material";
 const drawerWidth = 280;
 
@@ -38,7 +38,7 @@ function Sidebar(props) {
   console.log(pathname);
   const [open, setOpen] = useState([]);
   useEffect(() => {
-    const index = navConfig.findIndex((item) => {
+    const index = menuConfig.findIndex((item) => {
       if (!item.subNav) {
         return item.link === pathname;
       } else {
@@ -65,7 +65,7 @@ function Sidebar(props) {
         <img src="Logo.svg" alt="React Logo" />
       </Box>
       <List>
-        {navConfig.map((item, index) => (
+        {menuConfig.map((item, index) => (
           <>
             <Link to={item.link} style={linkStyle} key={item.id}>
               <ListItem
@@ -154,7 +154,7 @@ function Sidebar(props) {
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
-      <Navbar handleDrawerToggle={handleDrawerToggle} />
+      {/* <Navbar handleDrawerToggle={handleDrawerToggle} /> */}
       <Box
         component="nav"
         sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
