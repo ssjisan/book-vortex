@@ -8,13 +8,13 @@ import Drawer from "@mui/material/Drawer";
 // import Navbar from "../Navbar/Navbar";
 import  menuConfig  from "./MenuConfig";
 import { ListItem, ListItemButton, Typography,List,ListItemIcon } from "@mui/material";
+import Navbar from "../Navbar/Navbar";
 const drawerWidth = 280;
 
 function Sidebar(props) {
   // eslint-disable-next-line
   const { window } = props;
   const [mobileOpen, setMobileOpen] = useState(false);
-  // eslint-disable-next-line
   const handleDrawerToggle = () => {
     setMobileOpen(!mobileOpen);
   };
@@ -91,7 +91,7 @@ function Sidebar(props) {
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
-      {/* <Navbar handleDrawerToggle={handleDrawerToggle} /> */}
+      <Navbar handleDrawerToggle={handleDrawerToggle} />
       <Box
         component="nav"
         sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}

@@ -1,7 +1,7 @@
-import Items from "../../Assets/Icons/Items";
-import Zone from "../../Assets/Icons/Zone";
-import Salesman from "../../Assets/Icons/Salesman";
 import Dashboard from "../../Assets/Icons/Dashboard";
+import AddBook from "../../assets/Icons/AddBook";
+import AllBook from "../../assets/Icons/AllBook";
+import SaleBook from "../../assets/Icons/SaleBook";
 
 const menuConfig = [
   {
@@ -14,19 +14,19 @@ const menuConfig = [
     id: 2,
     title: "All Books",
     link: "/all-books",
-    icon: <Items />,
+    icon: <AllBook />,
   },
   {
     id: 3,
     title: "Add Books",
     link: "/add-books",
-    icon: <Salesman />,
+    icon: <AddBook />,
   },
   {
     id: 4,
     title: "Sale Books",
     link: "/sale-books",
-    icon: <Zone />,
+    icon: <SaleBook />,
   }
 ];
 
